@@ -1,3 +1,4 @@
 Hello Odin !
 
-why the commit author shows differently
+why the commit author shows differently?
+Ans: The private email was wrong
